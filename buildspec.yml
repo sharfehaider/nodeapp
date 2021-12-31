@@ -17,6 +17,9 @@ phases:
       - docker push public.ecr.aws/w5v7x7o5/nodeimage:latest
       
       
+      ############nodeapp##############
+      
+      
       
       
  
